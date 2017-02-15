@@ -1,0 +1,42 @@
+body {
+  background-size: cover;
+  background-image: url("http://wallpaper-gallery.net/images/sakura-wallpaper/sakura-wallpaper-12.jpg");
+}
+
+.black-box {
+  width: 325px;
+  height: 325px;
+  margin-top: 50px;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.flag-image {
+  margin-top: 40px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+h2 {
+  font-family: "Poiret One";
+  color: white;
+  pading-top: 30px;
+}
+
+p {
+  font-family: "Poiret One";
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+.search-bar {
+  margin-top: 10px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
